@@ -1,0 +1,15 @@
+mutitible recpients 
+redacted due to PII
+
+Total Word Count Per Agency Over Time: Tracks the volume of regulatory text each agency manages annually.
+Number of Parts Per Agency Over Time: Counts major regulatory subdivisions to show agency scope.
+Number of Sections Per Agency Over Time: Measures the quantity of specific regulations per agency.
+Average Word Count Per Section Per Agency Over Time: Indicates the complexity of regulations by agency.
+Number of New Sections Added Per Agency Per Year: Reflects regulatory expansion by agency.
+Number of Sections Repealed Per Agency Per Year: Shows efforts to reduce regulations by agency.
+Number of Sections Amended Per Agency Per Year: Tracks updates to existing regulations by agency.
+Regulatory Activity Index Per Agency: Combines new, repealed, and amended sections for overall activity.
+Regulatory Stability Index Per Agency: Measures unchanged regulations over a period, indicating stability.
+Growth Rate of Word Count Per Agency Over Time: Calculates annual percentage change in regulatory text volume.
+
+https://grok.com/share/bGVnYWN5_832409a6-97d2-4242-993f-4f00e60910c8
